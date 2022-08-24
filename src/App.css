@@ -335,6 +335,13 @@ footer ul {
   }
   .project-info {
     max-width: 70vw;
+    
+  }
+  .project-info h3{
+    font-size: 1.5rem;
+  }
+  .project-info p{
+    font-size: 1rem;
   }
   .project {
     text-align: center;
