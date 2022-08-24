@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.4b2660c6.css",
-    "main.js": "/personal-site/static/js/main.7e032031.js",
+    "main.css": "/personal-site/static/css/main.71935947.css",
+    "main.js": "/personal-site/static/js/main.6774910e.js",
     "static/media/pexels-rudolf-jakkel-418831.jpg": "/personal-site/static/media/pexels-rudolf-jakkel-418831.f5b9160fa4d799de1a62.jpg",
     "static/media/wood-background.jpg": "/personal-site/static/media/wood-background.e377db74b6fb13f582c7.jpg",
     "static/media/music-prod.jpg": "/personal-site/static/media/music-prod.f3d78ddb0e62abf5fd34.jpg",
     "static/media/laptop.jpg": "/personal-site/static/media/laptop.2dab8baa7ee3c09e0ca7.jpg",
     "static/media/time-signatures.jpg": "/personal-site/static/media/time-signatures.f5cdc229400725cda97c.jpg",
     "index.html": "/personal-site/index.html",
-    "main.4b2660c6.css.map": "/personal-site/static/css/main.4b2660c6.css.map",
-    "main.7e032031.js.map": "/personal-site/static/js/main.7e032031.js.map"
+    "main.71935947.css.map": "/personal-site/static/css/main.71935947.css.map",
+    "main.6774910e.js.map": "/personal-site/static/js/main.6774910e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b2660c6.css",
-    "static/js/main.7e032031.js"
+    "static/css/main.71935947.css",
+    "static/js/main.6774910e.js"
   ]
 }
