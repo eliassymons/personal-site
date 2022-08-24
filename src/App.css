@@ -187,9 +187,10 @@ p {
   border-radius: 1rem;
   padding: 0.5rem;
   transition: all 0.3s ease;
-  cursor: pointer;
+ 
   padding-left: 1rem;
 }
+
 
 .project-info {
   max-width: 30vw;
@@ -198,7 +199,26 @@ p {
 .project:hover {
   transform: scale(105%);
 }
-
+.project p{
+  margin-bottom: 1.5rem;
+}
+.project .links{
+  display: flex;
+  width: 20vw;
+  justify-content: space-between;
+ 
+}
+.project .link{
+  text-decoration: none;
+  color: white;
+  text-decoration: underline;
+  transition: all .3s ease;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+.project .link:hover{
+  color: aqua;
+}
 .contact-container {
   height: 90vh;
   max-width: 60vw;
@@ -318,6 +338,11 @@ footer ul {
   }
   .project {
     text-align: center;
+    
+  }
+  .project .links{
+width: 100%;
+    justify-content: center;
   }
   label {
     font-size: 1.5rem;
