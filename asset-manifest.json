@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.7c6bb92a.css",
+    "main.js": "/personal-site/static/js/main.033731d4.js",
+    "static/media/music-prod.jpg": "/personal-site/static/media/music-prod.f3d78ddb0e62abf5fd34.jpg",
+    "static/media/laptop.jpg": "/personal-site/static/media/laptop.2dab8baa7ee3c09e0ca7.jpg",
+    "static/media/woodshop.png": "/personal-site/static/media/woodshop.254e58a0832b17646d8f.png",
+    "static/media/time-signatures.png": "/personal-site/static/media/time-signatures.ef6a81cee6ac875592d7.png",
+    "static/media/acronym-finder-screenshot.png": "/personal-site/static/media/acronym-finder-screenshot.c2bc9b49e903c5f94bc5.png",
+    "index.html": "/personal-site/index.html",
+    "main.7c6bb92a.css.map": "/personal-site/static/css/main.7c6bb92a.css.map",
+    "main.033731d4.js.map": "/personal-site/static/js/main.033731d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6bb92a.css",
+    "static/js/main.033731d4.js"
+  ]
+}
