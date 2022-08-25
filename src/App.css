@@ -147,6 +147,13 @@ p {
   overflow: hidden;
   max-width: 60vw;
 }
+.imdb-link{
+  text-decoration: none;
+  color: aqua;
+  font-weight: 600;
+  transition: all .2s ease;
+}
+
 .projects-container {
   max-width: 100vw;
   background-image: linear-gradient(
@@ -363,6 +370,7 @@ width: 100%;
   .submit-btn {
     width: 7rem;
     height: 3rem;
+    text-align: center;
   }
   .contact-container {
     justify-content: space-around;
